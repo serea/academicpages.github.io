@@ -1,10 +1,10 @@
 ---
-permalink: /dataset/
+layout: archive
 title: "Dataset"
+permalink: /dataset/
 author_profile: true
-redirect_from: 
-  - /dataset/
-  - /dataset.html
+redirect_from:
+  - /dataset
 ---
 
 This page lists all the datasets we have collected and used in our papers. 
