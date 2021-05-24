@@ -1,14 +1,14 @@
 ---
-title: '保护用户隐私———Protecting user privacy: an approach for untraceable web browsing history and unambiguous user profiles'
+title: 'Protecting user privacy: an approach for untraceable web browsing history and unambiguous user profiles'
 date: 2019-03-1
-permalink: /posts/2019/03/blog-post-3/
+permalink: /posts/2019/03/protectuserprivacy/
 tags:
   - privacy protecting
   - web browing
 ---
 
 
-## 保护用户隐私：一种不可追踪的网络浏览历史和清晰的用户侧写
+保护用户隐私：一种不可追踪的网络浏览历史和清晰的用户侧写
 
 原文链接[Protecting user privacy: an approach for untraceable web browsing history and unambiguous user profiles](https://arxiv.org/abs/1811.09340)Beigi et al., *WSDM’19*, Arizona State University亚利桑那州立大学
 

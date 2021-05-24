@@ -1,7 +1,7 @@
 ---
 title: "区块链论文解读———未知智能合约的逆向"
 date: 2018-09-29
-permalink: /posts/2018/09/blog-post-1/
+permalink: /posts/2018/09/smartcontractreverse/
 tags:
   - Smart Contract
   - Reverse
