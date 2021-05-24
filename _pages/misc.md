@@ -1,11 +1,13 @@
 ---
-permalink: /misc/
+layout: archive
 title: "Misc"
+permalink: /misc/
 author_profile: true
-redirect_from: 
-  - /misc/
-  - /misc.html
+redirect_from:
+  - /misc
 ---
+
+
 
 ## Personal
 
