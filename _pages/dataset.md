@@ -34,11 +34,11 @@ We manually annotated them and performed a measurement study on our paper [Evil 
 
 ### Citation
 
-> @inproceedings{su2021evil,
->  title={Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications},
->  author={Su, Liya and Shen, Xinyue and Du, Xiangyu and Liao, Xiaojing and Wang, XiaoFeng and Xing, Luyi and Liu, Baoxu},
->  booktitle={30th $\{$USENIX$\}$ Security Symposium ($\{$USENIX$\}$ Security 21)},
->  publisher={USENIX},
+> @inproceedings{su2021evil,  
+>  title={Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications},  
+>  author={Su, Liya and Shen, Xinyue and Du, Xiangyu and Liao, Xiaojing and Wang, XiaoFeng and Xing, Luyi and Liu, Baoxu},  
+>  booktitle={30th $\{$USENIX$\}$ Security Symposium ($\{$USENIX$\}$ Security 21)},  
+>  publisher={USENIX},  
 >  year={2021}
 > }
 
