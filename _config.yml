@@ -72,10 +72,10 @@ social:
 
 
 # Analytics
-google_analytics: G-BQE532Y65F
+google_analytics: G-J5Z4PZJL1J
   provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : G-BQE532Y65F
+    tracking_id          : G-J5Z4PZJL1J
 
 
 # Site Author
