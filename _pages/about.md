@@ -28,8 +28,8 @@ I will be committed to solving safety problems in the industrial sector.
 
 ## Experience
 
-Visiting Student, CISPA Helmholtz Center for Information Security (Saarland, Germany), Jan, 2020 - Feb, 2021, work with Dr. Yang Zhang
-Visiting Student, Indiana University Bloomington (IN, America), May, 2019 – Jun, 2019, work with Prof. XiaoFeng Wang and Associate Professor Xiaojing Liao
+* Visiting Student, CISPA Helmholtz Center for Information Security (Saarland, Germany), Jan, 2020 - Feb, 2021, work with Dr. Yang Zhang
+* Visiting Student, Indiana University Bloomington (IN, America), May, 2019 – Jun, 2019, work with Prof. XiaoFeng Wang and Associate Professor Xiaojing Liao
 
 
 ## Selected Publications
