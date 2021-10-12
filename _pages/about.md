@@ -9,12 +9,14 @@ redirect_from:
 ---
 
 
-Hi! I've got my Ph.D this year on Cyberspace Security of University of Chinese Academy of Sciences.
+Hi! I am a DMT (Doctor Management Trainee) of JD.com.Inc now.
+I've got my Ph.D on Cyberspace Security of University of Chinese Academy of Sciences in 2021.
 I will be committed to solving safety problems in the industrial sector.
 
 ---
 
 ## What's news
+* Start working in JD.com.Inc in DMT rotation project, Aug 5, 2021.
 * Research Intern, JD.com.Inc, June 16-July 22, 2021.
 * I finished PhD defense in May 12, 2021.
 
@@ -25,6 +27,7 @@ I will be committed to solving safety problems in the industrial sector.
 * Web Security
 * Graph-Theoretic and its Application to Information Security
 * Smart Contract
+* Federated Learning
 
 ## Experience
 
@@ -42,9 +45,9 @@ Details are given below (also maintained in [Google Scholar](https://scholar.goo
 
 ## Competition and Achievements
 
+* Won the **National Scholarship** **2021**
 * Won the *11th* on **Big Data and Computing Intelligence Contest** hold by Institute of Computing Technology **2017**
 * Won the *23rd* on **Alibaba Tianchi Security algorithm Competition** **2017**
-* Won the *Honorable Mention* on the **North American Modeling Competition** **2015**
 
 ## Education
 
