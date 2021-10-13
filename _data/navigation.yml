@@ -1,4 +1,4 @@
-e# main links links
+# main links links
 main:
   - title: "Publications"
     url: /publications/
@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /files/CV_Suliya_public.pdf
+    url: /files/CV_Suliya_public.pdf/
     
   - title: "Misc"
     url: /misc/
