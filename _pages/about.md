@@ -9,13 +9,14 @@ redirect_from:
 ---
 
 
-Hi! I am a DMT (Doctor Management Trainee) of JD.com.Inc now.
+Hi! I am a DMT (Doctor Management Trainee) of JD.com.Inc and work in JD Cloud Security Team now.
 I've got my Ph.D on Cyberspace Security of University of Chinese Academy of Sciences in 2021.
 I will be committed to solving safety problems in the industrial sector.
 
 ---
 
 ## What's news
+* Start working in JD Cloud Security Team, Feb 7, 2022.
 * Start working in JD.com.Inc in DMT rotation project, Aug 5, 2021.
 * Research Intern, JD.com.Inc, June 16-July 22, 2021.
 * I finished PhD defense in May 12, 2021.
