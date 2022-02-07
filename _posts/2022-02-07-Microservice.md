@@ -65,22 +65,23 @@ Google云原生安全架构实现包括6个方面的安全原则：
 5. 简单、自动化、标准化的更新发布。对应的产品：Brog tooling。
 6. 在共享操作系统的工作负载之间进行隔离。对应的产品：gVisor。
 
-**GFE**：Terminates TLS (Transport Layer Security), edge proxy.
+使用的安全产品主要说明：
+> GFE：Terminates TLS (Transport Layer Security), edge proxy.
 
-**ALTS**: Remote Procedure Call (RPC), RPC authentication, integrity, encryption.
+> ALTS: Remote Procedure Call (RPC), RPC authentication, integrity, encryption.
 
-**Identities Features**: seamless microservice replication, load balancing, rescheduling across hosts. Identities are in general bound to services, not hosts or server name.
+> Identities Features: seamless microservice replication, load balancing, rescheduling across hosts. Identities are in general bound to services, not hosts or server name.
 
-**BAB**: code review, binaries verifiably.
+> BAB: code review, binaries verifiably.
 
-**HINT**: secure boot process, verification of digital signatures(host system software) on BIOS, BMC, bootloader and OS kernel.
+> HINT: secure boot process, verification of digital signatures(host system software) on BIOS, BMC, bootloader and OS kernel.
 
-**Service Access Policy**: authentication, authorization, auditing policies.
+> Service Access Policy: authentication, authorization, auditing policies.
 
-**EUC tickes**: integrity protected, centrally-issued, forwardable credentials.
+> EUC tickes: integrity protected, centrally-issued, forwardable credentials.
 
-**Brog tooling for blue/green deployments**: migrating running workloads when performing maintenance tasks.
+> Brog tooling for blue/green deployments: migrating running workloads when performing maintenance tasks.
 
-**live migration**: changes affecting Google Cloud infrastructure VM workloads are not impacted.
+> Live migration: changes affecting Google Cloud infrastructure VM workloads are not impacted.
 
-**gVisor**: workload isolation. Use user space kernel to intercept and handle syscalls, reducing the interaction with the host.
+> gVisor: workload isolation. Use user space kernel to intercept and handle syscalls, reducing the interaction with the host.
