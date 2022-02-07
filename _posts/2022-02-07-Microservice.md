@@ -17,7 +17,7 @@ tags:
 其中微服务将应用需要执行的各个任务分离成单独的服务，每项服务都可独立进行开发和管理，并且具有自己的API、发布、扩缩和配额管理。
 微服务是**独立的、模块化的、动态的、短暂的**。它们可以分布在许多主机、集群甚至云端上。
 
-![image-center]({{ './images/posts/microservice/cloudnaive.jpeg' | absolute_url }}){: .align-center}
+![image-center]({{ './images/posts/microservice/cloudnaive.jpg' | absolute_url }}){: .align-center}
 
 ### 云原生安全
 
