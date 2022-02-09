@@ -19,7 +19,7 @@ I will be committed to solving safety problems in the industrial sector.
 * Start working in JD Cloud Security Team, Feb 7, 2022.
 * Start working in JD.com.Inc in DMT rotation project, Aug 5, 2021.
 * Research Intern, JD.com.Inc, June 16-July 22, 2021.
-* I finished PhD defense in May 12, 2021.
+* I finished my PhD defense in May 12, 2021.
 
 
 ## Research Interest
